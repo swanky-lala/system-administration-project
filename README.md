@@ -37,7 +37,6 @@ https://drive.google.com/file/d/1ku_xMKEYkTTAuCim7wj1HIyFPE0MGxOR/view?usp=shari
 <img width="1224" alt="Sytem Admin   Security Project_31" src="https://github.com/user-attachments/assets/366fc7ee-662a-440a-9fc4-3379430d684a">
 
 <img width="1224" alt="Sytem Admin   Security Project_32" src="https://github.com/user-attachments/assets/f3a1b017-5184-436c-a1ae-14a5d4a39ee6">
-
 <img width="1224" alt="Sytem Admin   Security Project_32" src="https://github.com/user-attachments/assets/2f2d7eba-08a5-4463-b8c5-c4736615aeaa">
 <img width="1224" alt="Sytem Admin   Security Project_33" src="https://github.com/user-attachments/assets/231915dd-bfac-46a2-bc68-cec6c7a1e8a5">
 <img width="1224" alt="Sytem Admin   Security Project_34" src="https://github.com/user-attachments/assets/318484e3-4ef8-4576-850b-32d7536a148f">
@@ -90,4 +89,5 @@ https://drive.google.com/file/d/1ku_xMKEYkTTAuCim7wj1HIyFPE0MGxOR/view?usp=shari
 <img width="1224" alt="Sytem Admin   Security Project_84" src="https://github.com/user-attachments/assets/6b789772-73a4-43f3-b3b6-b3aedaca0dc7">
 <img width="1224" alt="Sytem Admin   Security Project_85" src="https://github.com/user-attachments/assets/33010b09-235a-4fb1-abe4-b69ccff0d529">
 <img width="1224" alt="Sytem Admin   Security Project_86" src="https://github.com/user-attachments/assets/6f08afe2-d1f2-465b-9dbf-103c1b2e63ca">
+
 
